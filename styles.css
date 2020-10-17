@@ -3,29 +3,29 @@ div:nth-child(1){
 	border: 0.5px solid lightgray;
 	padding: 10px;
 	width: 300px;
-	margin: auto;
-	box-shadow: 5px 5px #e3e3e3
+	margin: 10px;
+	box-shadow: 5px 5px #e3e3a3
 }
 img{
-	width: 300px;
-	height: 200px;
+	width: 500px;
+	height: 100px;
 }
 div.*{
-	width: 300px;	
+	width: 310px;	
 }
-div:nth-child(3){
+div:nth-child(2){
 	border: 0.5px solid lightgray;
 	padding: 10px;
 	width: 280px;
 	margin:10px 0px;
-	background-color: #f7f7f7;
-	font-size: 13px;
+	background-color: #f7e7f7;
+	font-size: 11px;
 }
 .fact{
 	font-style: italic;
 }
 .items{
-	list-style-type: none;
+	list-style-type: underline;
 }
 span{
 	font-weight: bold;
